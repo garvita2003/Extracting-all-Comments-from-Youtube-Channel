@@ -11,7 +11,7 @@ In this project we will see through how to extract all the comments from the you
 2) Create a new project in that
 3) Enable the Youtube Data API by going to the api and services with the newly created Project
 4) Create an API Key using credentials as public data
-5) Install or run in the terminal : pip install google-api-python-client 
+5) Install or run in the terminal : pip install google-api-python-client and create python file in virtual environment
 6) Explore the developer.google.com/youtube/v3 to know and try the youtube data api and code it after having a glimpse and understanding the use of the paramters 
 7) Explore search, commentThreads in order to fetch and execute the search of the channel based on the channel id provided in the code by the user and fetch all its info like videoId, author name who commented or replied, comments, replies, time and date when replied or commented based on the snippet and replies parameter to the part.
 8) Then store the output in the json file using file handling in python to write in a particular file and store all comments and replies along with their videoID, authorName, time and date
@@ -26,3 +26,5 @@ Since there will be lot of output so providing with the two screenshot of all
 ![Screenshot 2023-12-16 234500](https://github.com/garvita2003/Extracting-all-Comments-from-Youtube-Channel/assets/102051676/204ea4f5-ff44-4c92-adc3-0438a0d8a3df)
 
 # Output and Code Live Demo and a short explanation:
+https://drive.google.com/file/d/1V4TJ0A_61Zbe4Y_pQSdwGCI8rs0FwwVn/view?usp=sharing
+
