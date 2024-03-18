@@ -1,5 +1,5 @@
 # Extracting-all-Comments-from-Youtube-Channel
-In this project we will see through how to extract all the comments from the youtybe channel provided by the user as an input using python and api only
+In this project we will see through how to extract all the comments from the youtube channel provided by the user as an input using python and api only
 
 # Technology Used:
 1) Python
